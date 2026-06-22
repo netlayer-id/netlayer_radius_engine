@@ -28,6 +28,7 @@ NetlayerRadius is a lightweight PHP library for handling RADIUS (Remote Authenti
 ## Basic Usage
 ```php
 <?php
+    // app/server.php
     $radius = new NetlayerRadius();
     
     $config = new stdClass();
