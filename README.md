@@ -1,6 +1,6 @@
 # NetlayerRadius Engine
 
-PHP RADIUS Client Library with Dictionary Support
+PHP RADIUS Server Library with Dictionary Support
 
 ## Description
 
