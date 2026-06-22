@@ -313,6 +313,5 @@ echo $radius->format_duration(86400); // 1d
 14988 Mikrotik-Rate-Limit 1 string
 14988 Mikrotik-Recv-Limit 2 integer
 14988 Mikrotik-Total-Limit 3 integer
-14988 Mikrotik-Group 4 string
 ```
 
