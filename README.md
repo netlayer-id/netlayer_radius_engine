@@ -305,3 +305,14 @@ echo $radius->format_duration(120); // 2m
 echo $radius->format_duration(86400); // 1d
 ```
 
+### Dictionary Structure
+```txt
+[VENDOR_ID] [ATTRIBUTE_NAME] [ATTRIBUTE_CODE] [DATA_TYPE]
+
+# Vendor ID MikroTik 14988
+14988 Mikrotik-Rate-Limit 1 string
+14988 Mikrotik-Recv-Limit 2 integer
+14988 Mikrotik-Total-Limit 3 integer
+14988 Mikrotik-Group 4 string
+```
+
