@@ -3,8 +3,8 @@
     
     $config = new stdClass();
     
-    $config->auth_port = 8000;
-    $config->acct_port = 8001;
+    $config->auth_port = 1812;
+    $config->acct_port = 1813;
     $config->debug = true;
     
     $config->radius_secret = 'secret123';
