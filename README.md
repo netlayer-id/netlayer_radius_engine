@@ -1,10 +1,10 @@
-# NetlayerRadius Engine
+# Netlayer Radius Engine
 
 PHP RADIUS Server Library with Dictionary Support
 
 ## Description
 
-NetlayerRadius is a lightweight PHP library for handling RADIUS (Remote Authentication Dial-In User Service) packets. It supports:
+Netlayer Radius is a lightweight PHP library for handling RADIUS (Remote Authentication Dial-In User Service) packets. It supports:
 - RADIUS Authentication (PAP, CHAP)
 - RADIUS Accounting
 - RADIUS Disconnect (RFC 3576)
